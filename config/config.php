@@ -1,6 +1,6 @@
 <?php
-	define('DB_SERVER', 'nkcodes.database.windows.net');
-	define('DB_USERNAME', 'nkcodes047');
+	define('DB_SERVER', 'nkcodes');
+	define('DB_USERNAME', 'nkcodes');
 	define('DB_PASSWORD', 'Niraj@963122');
 	define('DB_NAME', 'FTR_database');
 
